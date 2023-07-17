@@ -1,3 +1,4 @@
+---
 version: 2.1 
 jobs: 
 	build:
@@ -10,4 +11,4 @@ Workflow:
     build_now:
         jobs:
           - build
-                      
+...          
